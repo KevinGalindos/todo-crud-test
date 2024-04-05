@@ -16,7 +16,6 @@ Para visualizar el proyecto debemos tener en cuenta los siguientes pasos:
   NOTA!! La api de crud crud tiene restricciones de CORS por los Origins, entonces para solucionar esto temporalmente se debe instalar una extensión de chrome, que gestiona esos permisos de CORS
   - El nombre de la extensión que utilicé es: MOESIF Origin & CORS Changer, recordemos que se debe encender en la parte superior del navegador donde aparecen las extensiones.
  
-  Este proyecto fue desarrollado por Kevin Galindo - Frontend developer
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
